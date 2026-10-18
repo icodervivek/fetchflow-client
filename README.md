@@ -18,6 +18,12 @@ timeouts, retries, and request/response interceptors.
 - Standardized error handling
 - ESM and CommonJS builds
 
+## Links
+
+- npm package: https://www.npmjs.com/package/fetchflow-client
+- Source code: https://github.com/icodervivek/fetchflow-client
+- Report an issue: https://github.com/icodervivek/fetchflow-client/issues
+
 ## Installation
 
 ```bash
