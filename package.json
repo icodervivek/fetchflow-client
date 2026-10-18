@@ -2,6 +2,14 @@
   "name": "fetchflow-client",
   "version": "0.1.0",
   "description": "A lightweight, type-safe HTTP client built on the Fetch API",
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/icodervivek/fetchflow-client.git"
+  },
+  "homepage": "https://github.com/icodervivek/fetchflow-client#readme",
+  "bugs": {
+    "url": "https://github.com/icodervivek/fetchflow-client/issues"
+  },
   "license": "MIT",
   "type": "module",
   "main": "./dist/index.cjs",
